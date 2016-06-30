@@ -16,8 +16,8 @@ config:
     default:
       agent: "agent-bond"
     alpine:
-      from: "alpine:3.2"
-      version: "3.2"
+      from: "alpine:3.4"
+      version: "3.4"
       description: "Alpine"
     centos:
       from: "centos:7"
